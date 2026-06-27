@@ -1,4 +1,4 @@
-## Hi, I'm [YUEH-HSUN Tsai](https://linkedin.com/in/alexander-tsai-tw-eu) 👋
+## Hi, I'm [YUEH-HSUN TSAI](https://linkedin.com/in/alexander-tsai-tw-eu) 👋
 ### 🛠️ Data Engineer · Fresh Graduate · Side Project Builder
 
 Passionate about building end-to-end data pipelines and turning raw market data into actionable insights.
