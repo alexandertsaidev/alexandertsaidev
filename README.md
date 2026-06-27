@@ -1,4 +1,4 @@
-## Hi, I'm [Alexander Tsai](https://linkedin.com/in/alexander-tsai-tw-eu) 👋
+## Hi, I'm [YUEH-HSUN Tsai](https://linkedin.com/in/alexander-tsai-tw-eu) 👋
 ### 🛠️ Data Engineer · Fresh Graduate · Side Project Builder
 
 Passionate about building end-to-end data pipelines and turning raw market data into actionable insights.
@@ -27,7 +27,7 @@ I enjoy working across the modern data stack — from ingestion and orchestratio
 #### ⭐ Airflow Workspace
 **Achievement**: Established a fully operational Apache Airflow 3.x orchestration environment from scratch, enabling reliable DAG scheduling across all pipeline projects.  
 **Metric**: Reduced pipeline setup time to under 30 minutes via a single `docker-compose up` command, covering 5+ services (Airflow, PostgreSQL, Redis, Kafka, MinIO).  
-**Action**: Resolved real-world compatibility challenges including Airflow 3.x FAB auth manager deprecation and cross-platform (Windows/Mac) deployment — documented as reusable infrastructure code.  
+**Action**: Resolved real-world compatibility challenges including Airflow 3.x FAB auth manager deprecation and cross-platform (Windows/Linux) deployment — documented as reusable infrastructure code.  
 [🔗 View Repo](https://github.com/alexandertsaidev/airflow_workspace)
 
 ---
@@ -44,16 +44,17 @@ I enjoy working across the modern data stack — from ingestion and orchestratio
 
 ```
 Languages      Python · SQL
-Pipeline       Apache Airflow · Kafka · flink · Docker 
+Pipeline       Apache Airflow · Kafka · Flink · Docker 
 Storage        DuckDB · Parquet · MinIO · PostgreSQL
-Visualization  (Dashboard project)
+Backend        Node.js · Express · REST API
+Visualization  HTML · CSS · JavaScript
 ```
 
 ---
 
 ### 📬 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:caiyuexun.hcd520201@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:caiyuexun.hcd520201@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/alexander-tsai-tw-eu))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alexandertsaidev)
 
