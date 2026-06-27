@@ -1,5 +1,3 @@
-<img width="1440" height="3602" alt="image" src="https://github.com/user-attachments/assets/bdc5ddbb-7576-4900-9760-8d62c6ab4a87" />
-
 ## Hi, I'm [Alexander Tsai](https://linkedin.com/in/alexander-tsai-tw-eu) 👋
 ### 🛠️ Data Engineer · Fresh Graduate · Side Project Builder
 
