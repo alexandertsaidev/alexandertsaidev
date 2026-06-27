@@ -9,9 +9,12 @@ I enjoy working across the modern data stack — from ingestion and orchestratio
 ### 🚀 Project Highlights
 
 #### ⭐ Stock Analyzer US — Batch Pipeline
-**Achievement**: Automated technical signal generation across 100+ US stock tickers with a fully reproducible batch pipeline.  
-**Metric**: Reduced manual analysis time to near-zero, producing structured multi-period Parquet outputs (RSI, MACD, Bollinger Bands) per run.  
-**Action**: Engineered with Python, Apache Airflow, DuckDB, and Docker — resolving production-edge issues such as pandas 2.2+ offset deprecation and NaN/inf serialization in Parquet export.  
+##### ✅ Achievement
+Automated technical signal generation across 100+ US stock tickers with a fully reproducible batch pipeline.  
+##### 📈 Metric
+Reduced manual analysis time to near-zero, producing structured multi-period Parquet outputs (RSI, MACD, Bollinger Bands) per run.  
+##### ⚡ Action
+Engineered with Python, Apache Airflow, DuckDB, and Docker — resolving production-edge issues such as pandas 2.2+ offset deprecation and NaN/inf serialization in Parquet export.  
 [🔗 View Repo](https://github.com/alexandertsaidev/stock_analyzer_us_batch_pipeline)
 
 ---
