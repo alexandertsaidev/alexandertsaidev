@@ -20,25 +20,34 @@ Engineered with Python, Apache Airflow, DuckDB, and Docker — resolving product
 ---
 
 #### ⭐ Stock US — Realtime Pipeline
-**Achievement**: Achieved sub-second data ingestion from live US stock market feeds into a persistent object store.  
-**Metric**: Demonstrated end-to-end streaming latency under 1 second with a multi-service architecture handling concurrent ticker streams.  
-**Action**: Built with Python Kafka producers/consumers, Docker Compose, and MinIO — mirroring production-grade data lake patterns for real-time ingestion.  
+##### ✅ Achievement 
+Achieved sub-second data ingestion from live US stock market feeds into a persistent object store.  
+##### 📈 Metric
+Demonstrated end-to-end streaming latency under 1 second with a multi-service architecture handling concurrent ticker streams.  
+##### ⚡ Action
+Built with Python Kafka producers/consumers, Docker Compose, and MinIO — mirroring production-grade data lake patterns for real-time ingestion.  
 [🔗 View Repo](https://github.com/alexandertsaidev/stock_us_realtime_pipeline)
 
 ---
 
 #### ⭐ Airflow Workspace
-**Achievement**: Established a fully operational Apache Airflow 3.x orchestration environment from scratch, enabling reliable DAG scheduling across all pipeline projects.  
-**Metric**: Reduced pipeline setup time to under 30 minutes via a single `docker-compose up` command, covering 5+ services (Airflow, PostgreSQL, Redis, Kafka, MinIO).  
-**Action**: Resolved real-world compatibility challenges including Airflow 3.x FAB auth manager deprecation and cross-platform (Windows/Linux) deployment — documented as reusable infrastructure code.  
+##### ✅ Achievement
+Established a fully operational Apache Airflow 3.x orchestration environment from scratch, enabling reliable DAG scheduling across all pipeline projects.  
+##### 📈 Metric
+Reduced pipeline setup time to under 30 minutes via a single `docker-compose up` command, covering 5+ services (Airflow, PostgreSQL, Redis, Kafka, MinIO).  
+##### ⚡ Action
+Resolved real-world compatibility challenges including Airflow 3.x FAB auth manager deprecation and cross-platform (Windows/Linux) deployment — documented as reusable infrastructure code.  
 [🔗 View Repo](https://github.com/alexandertsaidev/airflow_workspace)
 
 ---
 
 #### ⭐ Stock Analyzer Dashboard
-**Achievement**: Delivered an interactive visualization layer that surfaces stock technical signals for non-technical users without any backend server.  
-**Metric**: Condensed multi-period indicator outputs (from 100+ tickers) into an explorable dashboard with instant filtering and chart rendering.  
-**Action**: Connected directly to DuckDB-generated Parquet files, eliminating the need for a separate database layer and keeping the stack lightweight and self-contained.  
+##### ✅ Achievement
+Delivered an interactive visualization layer that surfaces stock technical signals for non-technical users without any backend server.  
+##### 📈 Metric
+Condensed multi-period indicator outputs (from 100+ tickers) into an explorable dashboard with instant filtering and chart rendering.  
+##### ⚡ Action
+Connected directly to DuckDB-generated Parquet files, eliminating the need for a separate database layer and keeping the stack lightweight and self-contained.  
 [🔗 View Repo](https://github.com/alexandertsaidev/stock_analyzer_dashboard)
 
 ---
