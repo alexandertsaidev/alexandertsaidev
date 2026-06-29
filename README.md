@@ -10,7 +10,7 @@ I enjoy working across the modern data stack — from ingestion and orchestratio
 
 #### ⭐ Stock Analyzer US — Batch Pipeline
 ##### ✅ Achievement
-Automated technical signal generation across 100+ US stock tickers with a fully reproducible batch pipeline.  
+Automated technical signal generation across 100+ US stock tickers with a fully reproducible batch pipeline, leveraging dbt to transform raw signals into actionable entry decisions.
 ##### 📈 Metric
 Reduced manual analysis time to near-zero, producing structured multi-period Parquet outputs (RSI, MACD, Bollinger Bands) per run.  
 ##### ⚡ Action
@@ -56,7 +56,7 @@ Connected directly to DuckDB-generated Parquet files, eliminating the need for a
 
 ```
 Languages      Python · SQL
-Pipeline       Apache Airflow · Kafka · Flink · Docker 
+Pipeline       Apache Airflow · Kafka · Flink · Docker · dbt
 Storage        DuckDB · Parquet · MinIO · PostgreSQL
 Backend        Node.js · Express · REST API
 Visualization  HTML · CSS · JavaScript
