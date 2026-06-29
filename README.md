@@ -12,7 +12,7 @@ I enjoy working across the modern data stack — from ingestion and orchestratio
 ##### ✅ Achievement
 Automated technical signal generation across 100+ US stock tickers with a fully reproducible batch pipeline, leveraging dbt to transform raw signals into actionable entry decisions.
 ##### 📈 Metric
-Reduced manual analysis time to near-zero — producing structured multi-period Parquet outputs with technical indicators per run, delivering 3 actionable entry strategies per ticker in under 2 minutes. 
+Reduced manual analysis time to near-zero — producing structured multi-period Parquet outputs with ~20 technical indicators per run, delivering 3 actionable entry strategies per ticker in under 2 minutes.
 ##### ⚡ Action
 Engineered with Python, Apache Airflow, DuckDB, and Docker — resolving production-edge issues such as pandas 2.2+ offset deprecation and NaN/inf serialization in Parquet export.  
 [🔗 View Repo](https://github.com/alexandertsaidev/stock_analyzer_us_batch_pipeline)
