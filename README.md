@@ -15,7 +15,7 @@ Automated technical signal generation across 100+ US stock tickers with a fully 
 Reduced manual analysis time to near-zero — producing structured multi-period Parquet outputs with ~20 technical indicators per run, delivering 3 actionable entry strategies per ticker in under 2 minutes.
 ##### ⚡ Action
 Engineered with Python, Apache Airflow, DuckDB, and Docker — resolving production-edge issues such as pandas 2.2+ offset deprecation and NaN/inf serialization in Parquet export.  
-[🔗 View Repo](https://github.com/alexandertsaidev/stock_analyzer_us_batch_pipeline)
+[🔗 View Repo](https://github.com/alexandertsaidev/us-stock-analysis-batch-pipe)
 
 ---
 
@@ -26,7 +26,7 @@ Achieved sub-second data ingestion from live US stock market feeds into a persis
 Demonstrated end-to-end streaming latency under 1 second with a multi-service architecture handling concurrent ticker streams.  
 ##### ⚡ Action
 Built with Python Kafka producers/consumers, Docker Compose, and MinIO — mirroring production-grade data lake patterns for real-time ingestion.  
-[🔗 View Repo](https://github.com/alexandertsaidev/stock_us_realtime_pipeline)
+[🔗 View Repo](https://github.com/alexandertsaidev/us-stock-analysis-rt-pipe)
 
 ---
 
